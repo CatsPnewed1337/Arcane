@@ -11,6 +11,6 @@ Avalonia for tabs, Terminal (He did nothing), Zeerox (UI) and Dx (Cool dude), Mi
 
 ### Links
 
-[MEGA Mirror](https://mega.nz/file/CyZCyTTJ#_32aHIU-x7GtpErtKkokoPkmHqWxpmHGXJvMXDAfVtE) | [Selenite Developement](https://discord.gg/kGHMbRzwGt)
+[MEGA Mirror](https://mega.nz/file/CyZCyTTJ#_32aHIU-x7GtpErtKkokoPkmHqWxpmHGXJvMXDAfVtE) | [Join the Discord](https://discord.gg/kGHMbRzwGt)
 
 </div>
